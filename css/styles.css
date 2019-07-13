@@ -1,0 +1,23 @@
+/*!
+ * Styles
+ */
+
+ /*.bg-primary {
+     background-color: olive !important;
+ }
+*/
+
+ .text-uppercase {
+    text-transform: lowercase !important;
+  }
+
+  h1.heading {
+    text-align: center;
+  }
+
+  .lead {
+    padding-top: 4em !important;
+    text-align: center;
+  }
+
+  

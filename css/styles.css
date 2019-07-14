@@ -2,10 +2,9 @@
  * Styles
  */
 
- /*.bg-primary {
-     background-color: olive !important;
- }
-*/
+ .bg-primary {
+  background-color: #1abc9c!important;
+}
 
  .text-uppercase {
     text-transform: lowercase !important;
@@ -20,4 +19,11 @@
     text-align: center;
   }
 
-  
+  .img-fluid {
+    border:2px solid #2c3e50;
+  }
+
+  .portfolio .portfolio-item {
+    border-radius: 0rem !important;
+
+  }

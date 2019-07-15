@@ -3,7 +3,7 @@
  */
 
  .bg-primary {
-  background-color: #1abc9c!important;
+  background-color: #c1e1e2!important;
 }
 
  .text-uppercase {
@@ -14,11 +14,18 @@
     text-align: center;
   }
 
-  .lead {
-    padding-top: 4em !important;
+  .intro {
+    padding-top: 2em !important;
     text-align: center;
     font-size: 1.5rem;
     font-weight: 500;
+  }
+
+  .lead {
+    padding-top: 1em !important;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
   }
 
   .img-fluid {
@@ -27,5 +34,6 @@
 
   .portfolio .portfolio-item {
     border-radius: 0rem !important;
-
   }
+
+  

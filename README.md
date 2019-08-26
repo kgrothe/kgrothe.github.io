@@ -1,4 +1,6 @@
-# Portfolio - Katie Grothe - Seattle University - Web Development Certificate Program student - anticipated completion September 2019
+## Portfolio
+
+>Created for Seattle University Web Development Certificate Program
 
 ## Created using:
 

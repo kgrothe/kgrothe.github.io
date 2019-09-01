@@ -52,3 +52,7 @@ a.nav-link.active {
     background-color: rgb(81, 153, 225) !important;
     border-color: rgb(81, 153, 225) !important;
   }  
+
+  #mainNav .navbar-nav li.nav-item a.nav-link:hover{
+    color:rgb(193, 225, 226) !important;
+  }   
